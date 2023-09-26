@@ -1,1 +1,20 @@
+.search{
+    background-color: (25, 25, 112);
+    height: 48px;
+    position: fixed;
+    top: 48px;
+}
+* {
+  box-sizing: border-box;
+}
+.film {
+    float: left;
+    padding: 15px;
+    width: 10%;
+}
+.button {
+    float: left;
+    padding: 15px;
+    width: 10%;
+}
 
